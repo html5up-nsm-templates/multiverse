@@ -316,7 +316,7 @@ input, select, textarea {
 		padding: 0.5em 0 0.5em 2em;
 	}
 
-	code {
+	/*code {
 		background: #34363b;
 		border: solid 1px #36383c;
 		font-family: "Courier New", monospace;
@@ -337,7 +337,7 @@ input, select, textarea {
 			line-height: 1.75;
 			padding: 1em 1.5em;
 			overflow-x: auto;
-		}
+		}*/
 
 	hr {
 		border: 0;
